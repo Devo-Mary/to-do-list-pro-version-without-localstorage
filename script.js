@@ -20,7 +20,7 @@ function formHandler(event){
         alertDOM.innerHTML = alertFunction(
             "Baslik bilgisi",
             "Eksik bilgi girdiniz",
-            "success"
+            "warning"
 
             )
     }
